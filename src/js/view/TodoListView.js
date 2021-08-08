@@ -1,4 +1,7 @@
 import '../../css/style.css';
+import '../../css/normalize.css';
+import '../../css/sceleton.css';
+import '../../css/dark.css';
 
 
  const DELETE_BTN_SELECTOR = '.delete-btn';
